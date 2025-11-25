@@ -1,6 +1,3 @@
-Here is the complete `README.md`. You can copy this code block directly into your file.
-
-````markdown
 # 🚗 Real-Time Object Detection with YOLOv10 (KITTI)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
