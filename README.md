@@ -56,7 +56,7 @@ The model was evaluated on the KITTI validation split across 7 classes (`Car`, `
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOLOv10-KITTI-ObjectDetection.git](https://github.com/YOUR_USERNAME/YOLOv10-KITTI-ObjectDetection.git)
+git clone [https://github.com/AmanouNasri1/YOLOv10-KITTI-ObjectDetection.git](https://github.com/AmanouNasri1/YOLOv10-KITTI-ObjectDetection.git)
 cd YOLOv10-KITTI-ObjectDetection
 pip install -r requirements.txt
 ````
